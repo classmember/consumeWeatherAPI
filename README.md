@@ -4,6 +4,8 @@
 
 ### Using an API in Javascript.
 
+<div style="margin-top: 20px;"><a href="#"><img src="https://github.com/classmember/consumeWeatherAPI/blob/master/img/consumeWeatherAPI.png"</a></div>
+
 ### Features:
  * API key usage
   * API consumption
